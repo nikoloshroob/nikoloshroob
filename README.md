@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on ...6856
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-sdfsdf
+- ⚡ Fun fact: ...6
+- 
 26
 <!---
 nikoloshroob/nikoloshroob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
